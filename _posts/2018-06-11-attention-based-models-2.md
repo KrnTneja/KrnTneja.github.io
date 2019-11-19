@@ -8,6 +8,8 @@ tags:
   - neural-networks
   - sequence-to-sequence
   - literature-review
+redirect_from:
+  - /blog/2018/06/11/attention-based-models-2
 ---
 
 In [part one](/posts/2018/06/attention-based-models-1) of this series, I introduced the fundamentals of sequence-to-sequence models and attention-based models. I briefly mentioned two sequence-to-sequence models that don\'t use attention and then introduced soft-alignment based models. In this post, I'm going to discuss about various monotonic attention mechanisms.

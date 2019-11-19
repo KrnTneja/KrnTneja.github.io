@@ -8,6 +8,8 @@ tags:
   - neural-networks
   - sequence-to-sequence
   - literature-review
+redirect_from:
+  - /blog/2018/06/02/attention-based-models-1
 ---
 
 Teaser: The task of learning sequential input-output relations is fundamental to machine learning and is especially of great interest when the input and output sequences have different lengths. Applications such as speech recognition, machine translation, document summarization, image captioning and many more can be posed in this format. In this post, we explore one of the popular ways to solve such problems using \'Attention Based Models\'.
