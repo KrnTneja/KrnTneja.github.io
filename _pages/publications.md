@@ -21,7 +21,7 @@ author_profile: true
 
 3. Uncertainty Estimation in Deep CNN Frameworks for Undersampled Resting-fMRI Reconstruction  
 <b>Karan Taneja</b>, Prachi H. Kulkarni, S. N. Merchant, Suyash P. Awate  
-<i>In preparation, Journal of IEEE Transactions on Image Processing</i> (on request)
+<i>Submitted to IEEE JSTSP Special Issue on Domain Enriched Learning for Medical Imaging</i> (on request)
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
