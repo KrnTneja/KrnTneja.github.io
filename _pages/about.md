@@ -13,8 +13,6 @@ Hello. Namaste. Bonjour. Kon'nichiwa.
 
 I'm Karan Taneja, [Electrical Engineering](https://www.ee.iitb.ac.in) final-year dual degree (B.Tech.+M.Tech.) student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) (IITB). I'm pursuing masters in Communication and Signal Processing and also pursuing a minor in Computer Science and Engineering. I'm interested in applications of machine learning to spoken, written and visual modalities. 
 
-<b>I am applying to Ph.D. programs for admission in autumn of 2020.</b> 
-
 Currently, I'm working on fMRI reconstruction from subsampled k,t-space data for faster fMRI acquisition under [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash/) and [Prof. Shabbir Merchant](https://www.ee.iitb.ac.in/wiki/faculty/merchant) for my masters thesis.
 I'm also working on code-mixed Hindi-English automatic speech recognition with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) at [Computational Speech And Language Technologies Lab](https://www.cse.iitb.ac.in/~pjyothi/csalt/) (CSALT) in collaboration with [Microsoft India Development Center](https://www.microsoft.com/en-in/msidc/) (MSIDC) at Hyderabad.
   
