@@ -141,7 +141,7 @@ There are two major limitations of soft alignments. First is the quadratic time 
 
 I\'ll be adding a part 2 of this series of posts soon. In the second part, I mostly intend to discuss how monotonic attention and hard alignment are attempts to eliminate the limitations of soft-alignment based models. Please send any suggestions, comments or corrections to my email given at the bottom of the page or add an issue on my repository <a href="https://github.com/KrnTneja/KrnTneja.github.io">here</a>.
 
-<b>Update:</b> Link to [Part 2](/posts/2018/06/attention-based-models-2).
+<b>Update:</b> Link to [Part 2](/posts/2018/attention-based-models-2).
 
 <h2>References</h2>
 
