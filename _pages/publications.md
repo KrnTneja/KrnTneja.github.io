@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 2. Improving Low Resource Code-switched ASR using Augmented Code-switched TTS  
-Yash Sharma, Basil Abraham, <b>Karan Taneja</b>, Preethi Jyothi
+Yash Sharma, Basil Abraham, <b>Karan Taneja</b>, Preethi Jyothi  
 <i>Interspeech 2020 (Virtual), 25-29 Oct. 2020, Shanghai, China</i> 
 
 1. Exploiting Monolingual Speech Corpora for Code-mixed Speech Recognition  
