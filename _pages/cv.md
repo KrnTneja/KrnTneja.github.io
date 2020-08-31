@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my 3 page CV [here](/files/cv-3page.pdf)
+Please see my 2 page CV [here](/files/cv-2page.pdf)
 
 <!-- Education
 ======
