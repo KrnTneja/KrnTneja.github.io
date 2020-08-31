@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my 2 page CV [here](/files/cv-2page.pdf)
+<!-- If not redirected, please click [here](/files/cv-2page.pdf). -->
+
+<script type="text/javascript">
+  window.location.replace("/files/cv-2page.pdf");
+</script>
 
 <!-- Education
 ======

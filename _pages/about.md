@@ -11,26 +11,37 @@ redirect_from:
 Hello. Namaste. Bonjour. Kon'nichiwa.
 ------
 
-I'm Karan Taneja, [Electrical Engineering](https://www.ee.iitb.ac.in) final-year dual degree (B.Tech.+M.Tech.) student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) (IITB). I'm pursuing masters in Communication and Signal Processing and also pursuing a minor in Computer Science and Engineering. I'm interested in applications of machine learning to spoken, written and visual modalities. 
+I'm Karan Taneja, incoming [Computer Science](https://www.cc.gatech.edu/) Ph.D. student at [Georgia Tech](https://www.gatech.edu/) (Spring 2021). I'm interested in applications of machine learning to spoken, written and visual modalities. 
 
-Currently, I'm working on fMRI reconstruction from subsampled k,t-space data for faster fMRI acquisition under [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash/) and [Prof. Shabbir Merchant](https://www.ee.iitb.ac.in/wiki/faculty/merchant) for my masters thesis.
-I'm also working on code-mixed Hindi-English automatic speech recognition with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) at [Computational Speech And Language Technologies Lab](https://www.cse.iitb.ac.in/~pjyothi/csalt/) (CSALT) in collaboration with [Microsoft India Development Center](https://www.microsoft.com/en-in/msidc/) (MSIDC) at Hyderabad.
-  
+I finished my dual degree program (B.Tech.+M.Tech.) in [Electrical Engineering](https://www.ee.iitb.ac.in) from [IIT Bombay](http://www.iitb.ac.in/) in 2020. I did my masters in Communication and Signal Processing and minor in Computer Science and Engineering. 
+
+<!-- Currently, I'm working on fMRI reconstruction from subsampled k,t-space data for faster fMRI acquisition under [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash/) and [Prof. Shabbir Merchant](https://www.ee.iitb.ac.in/wiki/faculty/merchant) for my masters thesis.
+I'm also working on code-mixed Hindi-English automatic speech recognition with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) at [Computational Speech And Language Technologies Lab](https://www.cse.iitb.ac.in/~pjyothi/csalt/) (CSALT) in collaboration with [Microsoft India Development Center](https://www.microsoft.com/en-in/msidc/) (MSIDC) at Hyderabad. -->
+
 Updates
 ------
 
+- <tt><b>August 2020</b></tt>: 
+  - Graduated from [IIT Bombay](http://www.iitb.ac.in/) with B.Tech. and M.Tech. in [Electrical Engineering](https://www.ee.iitb.ac.in/) and minor in Computer Science and Engineering.
+  - Awarded with Undergraduate Research Award (URA03) for research work in dual degree (masters) project.
+  - Deferred [Georgia Tech](https://www.gatech.edu/) ([Computer Science](https://www.cc.gatech.edu/) Ph.D.) offer to Spring'21 because of COVID-19 pandemic.      
+- <tt><b>July 2020</b></tt>: Paper accepted at [Interspeech'20](http://www.interspeech2020.org/). (PDF coming soon)  
+- <tt><b>June 2020</b></tt>: Master's final presentation on 'A Bayesian CNN Framework for Reconstruction of k-t Undersampled Resting-fMRI'.  
+- <tt><b>March 2020</b></tt>: Left IIT Bombay campus as COVID-19 started spreading in Mumbai.  
+- <tt><b>January 2020</b></tt>: Teaching Assistant for EE344 Electronic Design Lab (Spring'20).  
 - <tt><b>Oct 2019</b></tt>: Master's phase one presentation on A CNN Framework for Reconstruction of k-t Undersampled Resting-fMRI.  
 - <tt><b>Sep 2019</b></tt>: 
   - Attended, presented my work, volunteered (and had a lot of fun!) at Interspeech 2019, Graz, Austria.  
-  - Awarded with Institute Academic Prize 2018-19 from IIT Bombay for ranking 1 in EE department.  
+  - Awarded with Institute Academic Prize 2018-19 from IIT Bombay for rank 1 in EE department.  
 - <tt><b>Aug 2019</b></tt>: Teaching Assistant for EE223 Data Analysis and Interpretation (Autumn'19).  
-- <tt><b>Jul 2019</b></tt>: Awarded with [ISCA ](https://www.isca-speech.org/) Travel Grant for attending Interspeech 2019.  
-- <tt><b>Jun 2019</b></tt>: Paper accepted at [Interspeech'19](https://www.interspeech2019.org/). [[Paper](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1959.html)]  
-- <tt><b>May 2019</b></tt>: Teaching Assistant for EE223 Data Analysis and Interpretation (Summer'19).  
+<!-- - <tt><b>Jul 2019</b></tt>: Awarded with [ISCA ](https://www.isca-speech.org/) Travel Grant for attending Interspeech 2019.   -->
+<!-- - <tt><b>Jun 2019</b></tt>: Paper accepted at [Interspeech'19](https://www.interspeech2019.org/). [[Paper](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1959.html)]   -->
+<!-- - <tt><b>May 2019</b></tt>: Teaching Assistant for EE223 Data Analysis and Interpretation (Summer'19).   -->
 
 Contact
 ------
-<b>Email:</b> karantaneja [at] iitb [dot] ac [dot] in
+
+<a href="javascript:location='mailto:\u006b\u0074\u0061\u006e\u0065\u006a\u0061\u0036\u0040\u0067\u0061\u0074\u0065\u0063\u0068\u002e\u0065\u0064\u0075';void 0">Email</a>
 
 <!-- ======
 % Here --> 
