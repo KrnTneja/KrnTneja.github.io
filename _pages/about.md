@@ -15,17 +15,15 @@ I'm Karan Taneja, incoming [Computer Science](https://www.cc.gatech.edu/) Ph.D. 
 
 I finished my dual degree program (B.Tech.+M.Tech.) in [Electrical Engineering](https://www.ee.iitb.ac.in) from [IIT Bombay](http://www.iitb.ac.in/) in 2020. I did my masters in Communication and Signal Processing and minor in Computer Science and Engineering. 
 
-<!-- Currently, I'm working on fMRI reconstruction from subsampled k,t-space data for faster fMRI acquisition under [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash/) and [Prof. Shabbir Merchant](https://www.ee.iitb.ac.in/wiki/faculty/merchant) for my masters thesis.
-I'm also working on code-mixed Hindi-English automatic speech recognition with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) at [Computational Speech And Language Technologies Lab](https://www.cse.iitb.ac.in/~pjyothi/csalt/) (CSALT) in collaboration with [Microsoft India Development Center](https://www.microsoft.com/en-in/msidc/) (MSIDC) at Hyderabad. -->
-
 Updates
 ------
 
+- <tt><b>October 2020</b></tt>: Paper titled <em>A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI</em> accepted at [International Conference on Pattern Recognition (ICPR) 2020](https://www.micc.unifi.it/icpr2020/). (PDF coming soon) 
 - <tt><b>August 2020</b></tt>: 
   - Graduated from [IIT Bombay](http://www.iitb.ac.in/) with B.Tech. and M.Tech. in [Electrical Engineering](https://www.ee.iitb.ac.in/) and minor in Computer Science and Engineering.
   - Awarded with Undergraduate Research Award (URA03) for research work in dual degree (masters) project.
   - Deferred [Georgia Tech](https://www.gatech.edu/) ([Computer Science](https://www.cc.gatech.edu/) Ph.D.) offer to Spring'21 because of COVID-19 pandemic.      
-- <tt><b>July 2020</b></tt>: Paper accepted at [Interspeech'20](http://www.interspeech2020.org/). (PDF coming soon)  
+- <tt><b>July 2020</b></tt>: Paper titled <em>Improving Low Resource Code-switched ASR using Augmented Code-switched TTS</em> accepted at [Interspeech'20](http://www.interspeech2020.org/). (PDF coming soon)  
 - <tt><b>June 2020</b></tt>: Master's final presentation on 'A Bayesian CNN Framework for Reconstruction of k-t Undersampled Resting-fMRI'.  
 - <tt><b>March 2020</b></tt>: Left IIT Bombay campus as COVID-19 started spreading in Mumbai.  
 - <tt><b>January 2020</b></tt>: Teaching Assistant for EE344 Electronic Design Lab (Spring'20).  
@@ -33,7 +31,7 @@ Updates
 - <tt><b>Sep 2019</b></tt>: 
   - Attended, presented my work, volunteered (and had a lot of fun!) at Interspeech 2019, Graz, Austria.  
   - Awarded with Institute Academic Prize 2018-19 from IIT Bombay for rank 1 in EE department.  
-- <tt><b>Aug 2019</b></tt>: Teaching Assistant for EE223 Data Analysis and Interpretation (Autumn'19).  
+<!-- - <tt><b>Aug 2019</b></tt>: Teaching Assistant for EE223 Data Analysis and Interpretation (Autumn'19).   -->
 <!-- - <tt><b>Jul 2019</b></tt>: Awarded with [ISCA ](https://www.isca-speech.org/) Travel Grant for attending Interspeech 2019.   -->
 <!-- - <tt><b>Jun 2019</b></tt>: Paper accepted at [Interspeech'19](https://www.interspeech2019.org/). [[Paper](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1959.html)]   -->
 <!-- - <tt><b>May 2019</b></tt>: Teaching Assistant for EE223 Data Analysis and Interpretation (Summer'19).   -->
