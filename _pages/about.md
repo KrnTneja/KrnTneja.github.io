@@ -18,12 +18,12 @@ I finished my dual degree program (B.Tech.+M.Tech.) in [Electrical Engineering](
 Updates
 ------
 
-- <tt><b>October 2020</b></tt>: Paper titled <em>A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI</em> accepted at [International Conference on Pattern Recognition (ICPR) 2020](https://www.micc.unifi.it/icpr2020/). (PDF coming soon) 
+- <tt><b>October 2020</b></tt>: Paper titled <em>A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI</em> accepted at [International Conference on Pattern Recognition (ICPR) 2020](https://www.micc.unifi.it/icpr2020/).
 - <tt><b>August 2020</b></tt>: 
   - Graduated from [IIT Bombay](http://www.iitb.ac.in/) with B.Tech. and M.Tech. in [Electrical Engineering](https://www.ee.iitb.ac.in/) and minor in Computer Science and Engineering.
   - Awarded with Undergraduate Research Award (URA03) for research work in dual degree (masters) project.
   - Deferred [Georgia Tech](https://www.gatech.edu/) ([Computer Science](https://www.cc.gatech.edu/) Ph.D.) offer to Spring'21 because of COVID-19 pandemic.      
-- <tt><b>July 2020</b></tt>: Paper titled <em>Improving Low Resource Code-switched ASR using Augmented Code-switched TTS</em> accepted at [Interspeech'20](http://www.interspeech2020.org/). (PDF coming soon)  
+- <tt><b>July 2020</b></tt>: Paper titled <em>Improving Low Resource Code-switched ASR using Augmented Code-switched TTS</em> accepted at [Interspeech'20](http://www.interspeech2020.org/). [[Preprint](https://arxiv.org/pdf/2010.05549.pdf)]  
 - <tt><b>June 2020</b></tt>: Master's final presentation on 'A Bayesian CNN Framework for Reconstruction of k-t Undersampled Resting-fMRI'.  
 - <tt><b>March 2020</b></tt>: Left IIT Bombay campus as COVID-19 started spreading in Mumbai.  
 - <tt><b>January 2020</b></tt>: Teaching Assistant for EE344 Electronic Design Lab (Spring'20).  
