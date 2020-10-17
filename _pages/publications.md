@@ -11,8 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-[3] A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI  
-<!-- ([preprint](/files/fmri2020-preprint.pdf)) -->
+[3] A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI ([preprint](/files/fmri2020-preprint.pdf))
 <b>Karan Taneja</b>, Prachi H. Kulkarni, S. N. Merchant, Suyash P. Awate  
 <i>International Conference on Pattern Recognition 2020 (Virtual), 10-15 Jan. 2021, Milan, Italy</i>  
 

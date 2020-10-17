@@ -18,7 +18,7 @@ I finished my dual degree program (B.Tech.+M.Tech.) in [Electrical Engineering](
 Updates
 ------
 
-- <tt><b>October 2020</b></tt>: Paper titled <em>A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI</em> accepted at [International Conference on Pattern Recognition (ICPR) 2020](https://www.micc.unifi.it/icpr2020/).
+- <tt><b>October 2020</b></tt>: Paper titled <em>A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI</em> accepted at [International Conference on Pattern Recognition (ICPR) 2020](https://www.micc.unifi.it/icpr2020/) [[Preprint](/files/fmri2020-preprint.pdf)].
 - <tt><b>August 2020</b></tt>: 
   - Graduated from [IIT Bombay](http://www.iitb.ac.in/) with B.Tech. and M.Tech. in [Electrical Engineering](https://www.ee.iitb.ac.in/) and minor in Computer Science and Engineering.
   - Awarded with Undergraduate Research Award (URA03) for research work in dual degree (masters) project.
