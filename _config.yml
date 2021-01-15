@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Karan Taneja"
 title_separator          : "-"
 name                     : "Karan Taneja"
-description              : "Final-year Dual Degree Student (B.Tech.+M.Tech.) at IIT Bombay"
+description              : "First-year Computer Science Ph.D. Student at Georgia Tech"
 url                      : https://krntneja.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KrnTneja/KrnTneja.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Karan Taneja"
   avatar           : "profile.png"
   bio              : "Student and researcher. Interested in ML applied to Speech, Text and Vision"
-  location         : "Mumbai, India"
+  location         : "Atlanta, GA, US"
   employer         :
   pubmed           : 
   googlescholar    : 
