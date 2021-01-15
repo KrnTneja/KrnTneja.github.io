@@ -11,7 +11,7 @@ redirect_from:
 Hello. Namaste. Bonjour. Kon'nichiwa.
 ------
 
-I'm Karan Taneja, incoming [Computer Science](https://www.cc.gatech.edu/) Ph.D. student at [Georgia Tech](https://www.gatech.edu/) (Spring 2021). I'm interested in applications of machine learning to spoken, written and visual modalities. 
+I'm Karan Taneja, first-year [Computer Science](https://www.cc.gatech.edu/) Ph.D. student at [Georgia Tech](https://www.gatech.edu/) (Spring 2021). I'm interested in applications of machine learning to spoken, written and visual modalities. 
 
 I finished my dual degree program (B.Tech.+M.Tech.) in [Electrical Engineering](https://www.ee.iitb.ac.in) from [IIT Bombay](http://www.iitb.ac.in/) in 2020. I did my masters in Communication and Signal Processing and minor in Computer Science and Engineering. 
 
