@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hello. Namaste. Bonjour. Kon'nichiwa.
+Bio
 ------
 
-I'm Karan Taneja, first-year [Computer Science](https://www.cc.gatech.edu/) Ph.D. student at [Georgia Tech](https://www.gatech.edu/) (Spring 2021). I'm interested in applications of machine learning to spoken, written and visual modalities. 
+I'm Karan Taneja, a first-year [Computer Science](https://www.cc.gatech.edu/) Ph.D. student at [Georgia Institute of Technology](https://www.gatech.edu/). My advisor is [Prof. Ashok Goel](https://dilab.gatech.edu/ashok-k-goel/), director of [Design & Intelligence Lab](https://dilab.gatech.edu/). I'm interested in creating AI tools for education using Natural Language Processing and Knowledge-based Intelligent systems. 
 
-I finished my dual degree program (B.Tech.+M.Tech.) in [Electrical Engineering](https://www.ee.iitb.ac.in) from [IIT Bombay](http://www.iitb.ac.in/) in 2020. I did my masters in Communication and Signal Processing and minor in Computer Science and Engineering. 
+I graduated from [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in July 2020 with Bachelor and Master in [Electrical Engineering](https://www.ee.iitb.ac.in). My specialization was Signal Processing and Communication and I also did a minor in Computer Science and Engineering. 
 
 Updates
 ------
 
+- <tt><b>January 2020</b></tt>: Joined [Georgia Tech](https://www.gatech.edu/) for PhD in [Computer Science](https://www.cc.gatech.edu/).
 - <tt><b>October 2020</b></tt>: Paper titled <em>A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI</em> accepted at [International Conference on Pattern Recognition (ICPR) 2020](https://www.micc.unifi.it/icpr2020/) [[Preprint](/files/fmri2020-preprint.pdf)].
 - <tt><b>August 2020</b></tt>: 
   - Graduated from [IIT Bombay](http://www.iitb.ac.in/) with B.Tech. and M.Tech. in [Electrical Engineering](https://www.ee.iitb.ac.in/) and minor in Computer Science and Engineering.
@@ -39,7 +40,7 @@ Updates
 Contact
 ------
 
-<a href="javascript:location='mailto:\u006b\u0074\u0061\u006e\u0065\u006a\u0061\u0036\u0040\u0067\u0061\u0074\u0065\u0063\u0068\u002e\u0065\u0064\u0075';void 0">Email</a>
+<a href="javascript:location='mailto:\u006b\u0074\u0061\u006e\u0065\u006a\u0061\u0036\u0040\u0067\u0061\u0074\u0065\u0063\u0068\u002e\u0065\u0064\u0075';void 0">Email (Click Here)</a>
 
 <!-- ======
 % Here --> 
