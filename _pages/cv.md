@@ -12,7 +12,7 @@ redirect_from:
 <!-- If not redirected, please click [here](/files/cv-2page.pdf). -->
 
 <script type="text/javascript">
-  window.location.replace("/files/cv-2page.pdf");
+  window.location.replace("/files/cv-1page.pdf");
 </script>
 
 <!-- Education
