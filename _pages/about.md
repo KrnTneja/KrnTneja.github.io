@@ -18,7 +18,7 @@ I graduated from [Indian Institute of Technology Bombay](http://www.iitb.ac.in/)
 Updates
 ------
 
-- <tt><b>January 2020</b></tt>: Joined [Georgia Tech](https://www.gatech.edu/) for PhD in [Computer Science](https://www.cc.gatech.edu/).
+- <tt><b>January 2021</b></tt>: Joined [Georgia Tech](https://www.gatech.edu/) for PhD in [Computer Science](https://www.cc.gatech.edu/).
 - <tt><b>October 2020</b></tt>: Paper titled <em>A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI</em> accepted at [International Conference on Pattern Recognition (ICPR) 2020](https://www.micc.unifi.it/icpr2020/) [[Preprint](/files/fmri2020-preprint.pdf)].
 - <tt><b>August 2020</b></tt>: 
   - Graduated from [IIT Bombay](http://www.iitb.ac.in/) with B.Tech. and M.Tech. in [Electrical Engineering](https://www.ee.iitb.ac.in/) and minor in Computer Science and Engineering.
