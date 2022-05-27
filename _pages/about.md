@@ -11,7 +11,7 @@ redirect_from:
 Bio
 ------
 
-I'm Karan Taneja, a first-year [Computer Science](https://www.cc.gatech.edu/) Ph.D. student at [Georgia Institute of Technology](https://www.gatech.edu/). My advisor is [Prof. Ashok Goel](https://dilab.gatech.edu/ashok-k-goel/), director of [Design & Intelligence Lab](https://dilab.gatech.edu/). I'm interested in creating AI tools for education using Natural Language Processing and Knowledge-based Intelligent systems. 
+I'm Karan Taneja, a second-year [Computer Science](https://www.cc.gatech.edu/) Ph.D. student at [Georgia Institute of Technology](https://www.gatech.edu/). My advisor is [Prof. Ashok Goel](https://dilab.gatech.edu/ashok-k-goel/), director of [Design & Intelligence Lab](https://dilab.gatech.edu/) and [AI-ALOE Institute](https://aialoe.org/). I'm interested in creating AI tools for education using Natural Language Processing and Knowledge-based Intelligent systems. 
 
 I graduated from [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in July 2020 with Bachelor and Master in [Electrical Engineering](https://www.ee.iitb.ac.in). My specialization was Signal Processing and Communication and I also did a minor in Computer Science and Engineering. 
 
