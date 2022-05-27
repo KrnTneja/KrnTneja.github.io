@@ -30,7 +30,7 @@ Updates
   - Deferred [Georgia Tech](https://www.gatech.edu/) ([Computer Science](https://www.cc.gatech.edu/) Ph.D.) offer to Spring'21 because of COVID-19 pandemic.      
 - <tt><b>July 2020</b></tt>: Paper titled <em>Improving Low Resource Code-switched ASR using Augmented Code-switched TTS</em> accepted at [Interspeech'20](http://www.interspeech2020.org/). [[Preprint](https://arxiv.org/pdf/2010.05549.pdf)]  
 - <tt><b>June 2020</b></tt>: Master's final presentation on 'A Bayesian CNN Framework for Reconstruction of k-t Undersampled Resting-fMRI'.  
-<!-- 
+<!---
 - <tt><b>March 2020</b></tt>: Left IIT Bombay campus as COVID-19 started spreading in Mumbai.  
 - <tt><b>January 2020</b></tt>: Teaching Assistant for EE344 Electronic Design Lab (Spring'20).  
 - <tt><b>Oct 2019</b></tt>: Master's phase one presentation on A CNN Framework for Reconstruction of k-t Undersampled Resting-fMRI.  
