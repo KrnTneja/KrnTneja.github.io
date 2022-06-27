@@ -17,6 +17,14 @@ author_profile: true
 	***********************************************
  -->
 
+[5] Human-AI Interaction Design in Machine Teaching ([preprint](https://arxiv.org/abs/2206.05182))  
+<b>Karan Taneja</b>, Harshvardhan Sikka, Ashok Goel  
+<i>Communication in Human-AI Interaction Workshop, IJCAI 2022, Jul. 2022, Vienna, Austria</i>  
+
+[4] A Framework for Interactive Knowledge-Aided Machine Teaching ([preprint](https://arxiv.org/abs/2204.10357))  
+<b>Karan Taneja</b>, Harshvardhan Sikka, Ashok Goel  
+<i>arXiv:2204.10357, May 2022</i>  
+
 [3] A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI ([preprint](/files/fmri2020-preprint.pdf))  
 <b>Karan Taneja</b>, Prachi H. Kulkarni, S. N. Merchant, Suyash P. Awate  
 <i>International Conference on Pattern Recognition 2020 (Virtual), 10-15 Jan. 2021, Milan, Italy</i>  
