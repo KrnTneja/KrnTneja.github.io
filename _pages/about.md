@@ -18,7 +18,8 @@ I graduated from [Indian Institute of Technology Bombay](http://www.iitb.ac.in/)
 Updates
 ------
 
-- <tt><b>May 2022</b></tt>: Started summer internship at IBM in New York, US. Excited to be working with the computational creativity group on food recipe generation.
+- <tt><b>June 2022</b></tt>: We will be presenting our work on [Human-AI Interaction Design in Machine Teaching](https://chai-workshop.github.io/uploads/CHAI-22_paper_1887.pdf) ([arXiv:2206.05182](https://arxiv.org/abs/2206.05182)) at the [Communication in Human-AI Interaction Workshop](https://chai-workshop.github.io/#title), [IJCAI 2022 in Vienna](https://ijcai-22.org/). 
+- <tt><b>May 2022</b></tt>: Started summer internship at IBM in New York, US. Excited to be working with the computational creativity group on food recipe generation. 
 - <tt><b>April 2022</b></tt>: 
   - Passed my PhD qualifying exam. Big thanks to my advisor Prof. Ashok Goel, and committee members Prof. Spencer Rugaber, Prof. Alan Ritter and Prof. Diyi Yang.
   - Released our recent work as a pre-print on arXiv: [A Framework for Interactive Knowledge-Aided Machine Teaching](https://arxiv.org/abs/2204.10357).
