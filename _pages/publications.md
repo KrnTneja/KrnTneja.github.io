@@ -17,7 +17,7 @@ author_profile: true
 	***********************************************
  -->
 
-[5] Human-AI Interaction Design in Machine Teaching ([preprint](https://arxiv.org/abs/2206.05182))  
+[5] Human-AI Interaction Design in Machine Teaching ([paper](https://arxiv.org/abs/2206.05182)) ([video](https://youtu.be/2oAD_YKMq30))  
 <b>Karan Taneja</b>, Harshvardhan Sikka, Ashok Goel  
 <i>Communication in Human-AI Interaction Workshop, IJCAI 2022, Jul. 2022, Vienna, Austria</i>  
 
@@ -25,11 +25,11 @@ author_profile: true
 <b>Karan Taneja</b>, Harshvardhan Sikka, Ashok Goel  
 <i>arXiv:2204.10357, May 2022</i>  
 
-[3] A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI ([preprint](/files/fmri2020-preprint.pdf))  
+[3] A Bayesian Deep CNN Framework for Reconstructing k-t-Undersampled Resting-fMRI ([paper](/files/fmri2020-preprint.pdf)) ([poster](/files/ICPR2020_2323_Poster.pdf)) ([video](https://youtu.be/G7fm7rPV_qg))  
 <b>Karan Taneja</b>, Prachi H. Kulkarni, S. N. Merchant, Suyash P. Awate  
 <i>International Conference on Pattern Recognition 2020 (Virtual), 10-15 Jan. 2021, Milan, Italy</i>  
 
-[2] Improving Low Resource Code-switched ASR using Augmented Code-switched TTS ([preprint](https://arxiv.org/pdf/2010.05549.pdf))  
+[2] Improving Low Resource Code-switched ASR using Augmented Code-switched TTS ([paper](https://arxiv.org/pdf/2010.05549.pdf))  
 Yash Sharma, Basil Abraham, <b>Karan Taneja</b>, Preethi Jyothi    
 <i>Interspeech 2020 (Virtual), 25-29 Oct. 2020, Shanghai, China</i>  
 
