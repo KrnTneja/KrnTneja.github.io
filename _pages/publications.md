@@ -17,6 +17,10 @@ author_profile: true
 	***********************************************
  -->
 
+[6] Monte Carlo Tree Search for Recipe Generation using GPT-2 ([paper](/files/recipe-generation-paper-iccc23.pdf))  
+<b>Karan Taneja</b>, Richard Segal, Richard Goodwin  
+<i>14th International Conference on Computational Creativity, ICCC 2023, 19-23 Jun. 2023, Waterloo, Ontario, Canada</i>  
+
 [5] Human-AI Interaction Design in Machine Teaching ([paper](https://arxiv.org/abs/2206.05182)) ([video](https://youtu.be/2oAD_YKMq30))  
 <b>Karan Taneja</b>, Harshvardhan Sikka, Ashok Goel  
 <i>Communication in Human-AI Interaction Workshop, IJCAI 2022, Jul. 2022, Vienna, Austria</i>  
