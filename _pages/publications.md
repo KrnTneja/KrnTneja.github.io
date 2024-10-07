@@ -17,6 +17,22 @@ author_profile: true
 	***********************************************
  -->
 
+[10] Can Active Label Correction Improve LLM-based Modular AI Systems? ([paper](https://arxiv.org/abs/2401.05467))
+<b>Karan Taneja<b>, Ashok Goel
+<i>Empirical Methods in Natural Language Processing, EMNLP 2024, 12-16 Nov. 2024 Miami, Florida, USA</i>
+
+[9] Does Jill Watson Increase Teaching Presence? ([paper](https://dl.acm.org/doi/abs/10.1145/3657604.3664679))
+Robert Lindgren, Sandeep Kakar, Pratyusha Maiti, <b>Karan Taneja</b>, Ashok Goel
+<i>10th ACM Conference on Learning at Scale, L@S 2024, 18-20 Jul 2024, Atlanta, Georgia, USA</i>
+
+[8] Jill Watson: Scaling and Deploying an AI Conversational Agent in Online Classrooms ([paper](https://link.springer.com/chapter/10.1007/978-3-031-63028-6_7))
+Sandeep Kakar, Pratyusha Maiti, <b>Karan Taneja</b>, Alekhya Nandula, Gina Nguyen, Aiden Zhao, Vrinda Nandan, Ashok Goel
+<i> 20th International Conference on Intelligent Tutoring Systems, ITS 2024, 10-13 Jun. 2024, Thessaloniki, Greece<i>
+
+[7] Jill Watson: A Virtual Teaching Assistant powered by ChatGPT ([paper](https://link.springer.com/chapter/10.1007/978-3-031-64302-6_23))
+<b>Karan Taneja</b>, Pratyusha Maiti, Sandeep Kakar, Pranav Guruprasad, Sanjeev Rao, Ashok K. Goel
+<i>25th International Conference on Artificial Intelligence in Education, AIED 2024, 8-12 Jul. 2024, Recife, Brazil<i>
+
 [6] Monte Carlo Tree Search for Recipe Generation using GPT-2 ([paper](/files/recipe-generation-paper-iccc23.pdf))  
 <b>Karan Taneja</b>, Richard Segal, Richard Goodwin  
 <i>14th International Conference on Computational Creativity, ICCC 2023, 19-23 Jun. 2023, Waterloo, Ontario, Canada</i>  
