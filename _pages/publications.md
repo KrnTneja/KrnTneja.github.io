@@ -17,9 +17,21 @@ author_profile: true
 	***********************************************
  -->
 
+[13] Towards a Multimodal Document-grounded Conversational AI System for Education  
+<b>Karan Taneja</b>, Anjali Singh, Ashok Goel  
+<i>26th International Conference on Artificial Intelligence in Education, AIED 2025, 22-26 Jul. 2025, Palermo, Italy</i>
+
+[12] Protecting Human Cognition in the Age of AI ([paper](https://arxiv.org/abs/2502.12447))  
+Anjali Singh, <b>Karan Taneja</b>, Zhitong Guan, Avijit Ghosh  
+<i>Tools for Thought Workshop, CHI 2025, 26 Apr. 2025, Yokohama, Japan</i>
+
+[11] MuDoC: An Interactive Multimodal Document-grounded Conversational AI System ([paper](https://arxiv.org/pdf/2502.09843))  
+<b>Karan Taneja</b>, Ashok Goel  
+<i>Machine Learning and Knowledge Engineering for Trustworthy Multimodal and Generative AI, AAAI-MAKE 2025, 31 Mar. - 2 Apr. 2025, San Francisco, California, USA</i>
+
 [10] Can Active Label Correction Improve LLM-based Modular AI Systems? ([paper](https://arxiv.org/abs/2401.05467))  
 <b>Karan Taneja</b>, Ashok Goel  
-<i>Empirical Methods in Natural Language Processing, EMNLP 2024, 12-16 Nov. 2024 Miami, Florida, USA</i>
+<i>Empirical Methods in Natural Language Processing, EMNLP 2024, 12-16 Nov. 2024, Miami, Florida, USA</i>
 
 [9] Does Jill Watson Increase Teaching Presence? ([paper](https://dl.acm.org/doi/abs/10.1145/3657604.3664679))  
 Robert Lindgren, Sandeep Kakar, Pratyusha Maiti, <b>Karan Taneja</b>, Ashok Goel  
