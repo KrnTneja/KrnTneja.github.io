@@ -18,6 +18,8 @@ I graduated from [Indian Institute of Technology Bombay](http://www.iitb.ac.in/)
 Updates
 ------
 
+- <tt><b>March 2025</b></tt>: I will be presenting our work '[MuDoC: An Interactive Multimodal Document-grounded Conversational AI System](https://arxiv.org/abs/2502.09843)' at [Machine Learning and Knowledge Engineering for Trustworthy Multimodal and Generative AI (AAAI-MAKE 2025) in San Francisco, California, US](https://www.aaai-make.info/).  
+- <tt><b>February 2025</b></tt>: I will be defending my PhD proposal on 16th April, 2025. My thesis title is "Conversational AI for Education: Design, Evaluation, and Continual Improvement". Please reach out to me for details if you wish attend my proposal talk.  
 - <tt><b>Semptember 2024</b></tt>: I will be presenting our work '[Can Active Label Correction Improve LLM-based Modular AI Systems?](https://arxiv.org/abs/2401.05467)' at the [2024 Conference on Empirical Methods in Natural Language Processing in Miami, Florida, US](https://2024.emnlp.org/).  
 - <tt><b>May 2024</b></tt>: I will be presenting our work '[Does Jill Watson Increase Teaching Presence?](https://dl.acm.org/doi/abs/10.1145/3657604.3664679)' at the [2024 ACM Learning at Scale Conference in Atlanta, Georgia, US](https://learningatscale.hosting.acm.org/las2024/).  
 - <tt><b>April 2024</b></tt>: I will be presenting our work '[Jill Watson: A Virtual Teaching Assistant powered by ChatGPT](https://link.springer.com/chapter/10.1007/978-3-031-64302-6_23)' at the [25th International Conference on Artificial Intelligence in Education (AIED 2024) in Recife, Brazil](https://aied2024.cesar.school/).  
