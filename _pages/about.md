@@ -11,9 +11,9 @@ redirect_from:
 Bio
 ------
 
-I'm Karan Taneja, a [Computer Science](https://www.cc.gatech.edu/) Ph.D. Candidate at [Georgia Institute of Technology](https://www.gatech.edu/). My advisor is [Prof. Ashok Goel](https://dilab.gatech.edu/ashok-k-goel/), director of [Design & Intelligence Lab](https://dilab.gatech.edu/) and [AI-ALOE Institute](https://aialoe.org/). I'm interested in creating AI tools for education using Natural Language Processing and Knowledge-based Intelligent systems. 
+I'm Karan Taneja, a [Computer Science](https://www.cc.gatech.edu/) Ph.D. Candidate at [Georgia Institute of Technology](https://www.gatech.edu/). My advisor is [Prof. Ashok Goel](https://dilab.gatech.edu/ashok-k-goel/), director of [Design & Intelligence Lab](https://dilab.gatech.edu/) and [AI-ALOE Institute](https://aialoe.org/). I create, deploy, and test conversational AI tools for education. I'm expecting to graduate in May 2026 and I'm actively seeking job opportunities in the space of AI research, product design, and human-computer interaction. I'm also interested in startups, so reach out to me if you want to work together to build something crazy, or built something where I can contribute.     
 
-I graduated from [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in July 2020 with Bachelor and Master in [Electrical Engineering](https://www.ee.iitb.ac.in). My specialization was Signal Processing and Communication and I also did a minor in Computer Science and Engineering. 
+Before Georgia Tech, I graduated from [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in July 2020 with Bachelors and Masters in [Electrical Engineering](https://www.ee.iitb.ac.in). I specialized in Signal Processing for my masters and also did a minor in Computer Science and Engineering. 
 
 Updates
 ------
