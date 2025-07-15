@@ -1,0 +1,66 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="project-card" onclick="window.location.href='{{ base_path }}{{ post.url }}'">
+  <article class="project-card__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <!-- Card Image -->
+    <div class="project-card__image">
+      <img src=
+        {% if teaser contains "://" %}
+          "{{ teaser }}"
+        {% else %}
+          "{{ base_path }}{{ teaser }}"
+        {% endif %}
+        alt="{{ title }}">
+    </div>
+
+    <!-- Card Content -->
+    <div class="project-card__content">
+      <h3 class="project-card__title" itemprop="headline">
+        {{ title }}
+      </h3>
+      
+      <!-- Project Description -->
+      {% if post.excerpt %}
+        <div class="project-card__excerpt" itemprop="description">
+          <em>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</em>
+        </div>
+      {% endif %}
+
+      <!-- Project Details -->
+      <div class="project-card__details">
+        {% if post.impact %}
+          <div class="project-card__impact">
+            <strong>Notes:</strong> {{ post.impact }}
+          </div>
+        {% endif %}
+
+        {% if post.technologies %}
+          <div class="project-card__technologies">
+            <strong>Tech:</strong> {{ post.technologies }}
+          </div>
+        {% endif %}
+      </div>
+
+      <!-- Read More Link -->
+      <div class="project-card__link">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink" class="btn btn--primary">
+          View Project <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        </a>
+      </div>
+    </div>
+
+  </article>
+</div> 

@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,31 +7,122 @@ redirect_from:
   - /about.html
 ---
 
-Bio
-------
+{% include base_path %}
 
-I'm Karan Taneja, a [Computer Science](https://www.cc.gatech.edu/) Ph.D. Candidate at [Georgia Institute of Technology](https://www.gatech.edu/). My advisor is [Prof. Ashok Goel](https://dilab.gatech.edu/ashok-k-goel/), director of [Design & Intelligence Lab](https://dilab.gatech.edu/) and [AI-ALOE Institute](https://aialoe.org/). I create, deploy, and test conversational AI tools for education. I'm expecting to graduate in May 2026 and I'm actively seeking job opportunities in the space of AI research, product design, and human-computer interaction. I'm also interested in startups, so reach out to me if you want to work together to build something crazy, or built something where I can contribute.     
+  <!-- Bio Section -->
+  <div class="about-section">
+    <h2 class="section-title">
+      Hi, I'm Karan.
+    </h2>
+    <div class="bio-content">
+      <p>I'm a Computer Science Ph.D. Candidate at <a href="https://www.cc.gatech.edu/" target="_blank" rel="noopener noreferrer">Georgia Institute of Technology</a>, working under the guidance of <a href="https://dilab.gatech.edu/ashok-k-goel/" target="_blank" rel="noopener noreferrer">Prof. Ashok Goel</a>, director of the <a href="https://dilab.gatech.edu/" target="_blank" rel="noopener noreferrer">Design & Intelligence Lab</a> and <a href="https://aialoe.org/" target="_blank" rel="noopener noreferrer">AI-ALOE Institute</a>.</p>
+      
+      <p>My research focuses on creating, deploying, and testing conversational AI tools for education. I'm expecting to graduate in May 2026 and I'm actively seeking job opportunities in AI research, product design, and human-computer interaction. I'm also interested in startups, so reach out to me if you want to work together to build something innovative!</p>
+      
+      <p>Before Georgia Tech, I graduated from <a href="http://www.iitb.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Technology Bombay</a> in July 2020 with Bachelors and Masters in <a href="https://www.ee.iitb.ac.in" target="_blank" rel="noopener noreferrer">Electrical Engineering</a>. I specialized in Signal Processing for my masters and also completed a minor in Computer Science and Engineering.</p>
 
-Before Georgia Tech, I graduated from [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in July 2020 with Bachelors and Masters in [Electrical Engineering](https://www.ee.iitb.ac.in). I specialized in Signal Processing for my masters and also did a minor in Computer Science and Engineering. 
+      <p>My first name is pronounced like <em>Curren</em> as in Current. My pronouns are <em>he/him/his</em>.</p>
 
-Updates
-------
+    </div>
+  </div>
 
+  <!-- Research Focus -->
+  <div class="about-section">
+    <h2 class="section-title">
+      Research
+    </h2>
+    <div class="research-grid">
+      <div class="research-item">
+        <div class="research-icon">
+          <i class="fas fa-comments"></i>
+        </div>
+        <h3>Conversational AI</h3>
+        <p>Developing intelligent dialogue systems for educational contexts</p>
+      </div>
+      <div class="research-item">
+        <div class="research-icon">
+          <i class="fas fa-graduation-cap"></i>
+        </div>
+        <h3>Educational Technology</h3>
+        <p>Creating AI-powered tools to enhance learning experiences</p>
+      </div>
+      <div class="research-item">
+        <div class="research-icon">
+          <i class="fas fa-brain"></i>
+        </div>
+        <h3>Human-Computer Interaction</h3>
+        <p>Designing intuitive interfaces for AI-human collaboration</p>
+      </div>
+    </div>
+    
+    <!-- Research Links -->
+    <div class="research-links">
+      <a href="/publications/" class="research-section-link">
+        <i class="fas fa-file-alt"></i>
+        View Publications
+      </a>
+      <a href="/projects/" class="research-section-link">
+        <i class="fas fa-code"></i>
+        View Projects
+      </a>
+    </div>
+  </div>
 
-- <tt><b>May 2025</b></tt>: My collaborator [Anjali Singh](https://www.linkedin.com/in/anjali-singh-a7786ba4/) presented our work '[Protecting Human Cognition in the Age of AI](https://arxiv.org/pdf/2502.12447)' at the [Tools for Thought Workshop at CHI 2025 in Yokohama, Japan](https://ai-tools-for-thought.github.io/workshop/).  
-- <tt><b>May 2025</b></tt>: I will be presenting our work '[Towards a Multimodal Document-grounded Conversational AI System for Education](https://arxiv.org/pdf/2504.13884)' at the [26th International Conference
-on Artificial Intelligence in Education (AIED 2025) in Palermo, Italy](https://aied2025.itd.cnr.it/).  
-- <tt><b>April 2025</b></tt>: I passed my PhD Proposal exam on 16th April, 2025! My thesis title is "Conversational AI for Education: Design, Evaluation, and Continual Improvement". Expecting to graduate in May 2026.  
-- <tt><b>March 2025</b></tt>: I presented our work '[MuDoC: An Interactive Multimodal Document-grounded Conversational AI System](https://arxiv.org/abs/2502.09843)' at the [Machine Learning and Knowledge Engineering for Trustworthy Multimodal and Generative AI (AAAI-MAKE 2025) in San Francisco, California, US](https://www.aaai-make.info/).  
-- <tt><b>November 2024</b></tt>: I presented our work '[Can Active Label Correction Improve LLM-based Modular AI Systems?](https://arxiv.org/abs/2401.05467)' at the [2024 Conference on Empirical Methods in Natural Language Processing in Miami, Florida, US](https://2024.emnlp.org/).  
-- <tt><b>July 2024</b></tt>: I presented our work '[Does Jill Watson Increase Teaching Presence?](https://dl.acm.org/doi/abs/10.1145/3657604.3664679)' at the [2024 ACM Learning at Scale Conference in Atlanta, Georgia, US](https://learningatscale.hosting.acm.org/las2024/).  
-- <tt><b>July 2024</b></tt>: I presented our work '[Jill Watson: A Virtual Teaching Assistant powered by ChatGPT](https://link.springer.com/chapter/10.1007/978-3-031-64302-6_23)' at the [25th International Conference on Artificial Intelligence in Education (AIED 2024) in Recife, Brazil](https://aied2024.cesar.school/).  
+  <!-- Recent Updates -->
+  <div class="about-section">
+    <h2 class="section-title">
+      Recent Updates
+    </h2>
+    <ul class="updates-list">
+      <li>
+        <span class="update-date">May 2025</span><br>
+        My collaborator <a href="https://www.linkedin.com/in/anjali-singh-a7786ba4/" target="_blank" rel="noopener noreferrer">Anjali Singh</a> presented our work '<a href="https://arxiv.org/pdf/2502.12447" target="_blank" rel="noopener noreferrer">Protecting Human Cognition in the Age of AI</a>' at the <a href="https://ai-tools-for-thought.github.io/workshop/" target="_blank" rel="noopener noreferrer">Tools for Thought Workshop at CHI 2025</a> in Yokohama, Japan.
+      </li>
+      <li>
+        <span class="update-date">May 2025</span><br>
+        I will be presenting our work '<a href="https://arxiv.org/pdf/2504.13884" target="_blank" rel="noopener noreferrer">Towards a Multimodal Document-grounded Conversational AI System for Education</a>' at the <a href="https://aied2025.itd.cnr.it/" target="_blank" rel="noopener noreferrer">26th International Conference on Artificial Intelligence in Education (AIED 2025)</a> in Palermo, Italy.
+      </li>
+      <li>
+        <span class="update-date">April 2025</span><br>
+        <strong>🎉 PhD Milestone!</strong> I passed my PhD Proposal exam on 16th April, 2025! My thesis title is "Conversational AI for Education: Design, Evaluation, and Continual Improvement". Expecting to graduate in May 2026.
+      </li>
+      <li>
+        <span class="update-date">March 2025</span><br>
+        I presented our work '<a href="https://arxiv.org/abs/2502.09843" target="_blank" rel="noopener noreferrer">MuDoC: An Interactive Multimodal Document-grounded Conversational AI System</a>' at the <a href="https://www.aaai-make.info/" target="_blank" rel="noopener noreferrer">Machine Learning and Knowledge Engineering for Trustworthy Multimodal and Generative AI (AAAI-MAKE 2025)</a> in San Francisco, California, US.
+      </li>
+      <li>
+        <span class="update-date">November 2024</span><br>
+        I presented our work '<a href="https://arxiv.org/abs/2401.05467" target="_blank" rel="noopener noreferrer">Can Active Label Correction Improve LLM-based Modular AI Systems?</a>' at the <a href="https://2024.emnlp.org/" target="_blank" rel="noopener noreferrer">2024 Conference on Empirical Methods in Natural Language Processing</a> in Miami, Florida, US.
+      </li>
+      <li>
+        <span class="update-date">July 2024</span><br>
+        I presented our work '<a href="https://dl.acm.org/doi/abs/10.1145/3657604.3664679" target="_blank" rel="noopener noreferrer">Does Jill Watson Increase Teaching Presence?</a>' at the <a href="https://learningatscale.hosting.acm.org/las2024/" target="_blank" rel="noopener noreferrer">2024 ACM Learning at Scale Conference</a> in Atlanta, Georgia, US.
+      </li>
+      <li>
+        <span class="update-date">July 2024</span><br>
+        I presented our work '<a href="https://link.springer.com/chapter/10.1007/978-3-031-64302-6_23" target="_blank" rel="noopener noreferrer">Jill Watson: A Virtual Teaching Assistant powered by ChatGPT</a>' at the <a href="https://aied2024.cesar.school/" target="_blank" rel="noopener noreferrer">25th International Conference on Artificial Intelligence in Education (AIED 2024)</a> in Recife, Brazil.
+      </li>
+    </ul>
+  </div>
 
-
-Contact
-------
-
-<a href="javascript:location='mailto:\u006b\u0074\u0061\u006e\u0065\u006a\u0061\u0036\u0040\u0067\u0061\u0074\u0065\u0063\u0068\u002e\u0065\u0064\u0075';void 0">Email (Click Here)</a>
-
-<!-- ======
-% Here --> 
+  <!-- Contact Section -->
+  <div class="about-section">
+    <h2 class="section-title">
+      <i class="fas fa-envelope"></i>
+      Get In Touch
+    </h2>
+    <div class="contact-content">
+      <p>I'm always interested in new opportunities and collaborations. Feel free to reach out over Email or LinkedIn.
+      </p>
+      <div class="contact-button">
+        <a href="javascript:location='mailto:\u006b\u0074\u0061\u006e\u0065\u006a\u0061\u0036\u0040\u0067\u0061\u0074\u0065\u0063\u0068\u002e\u0065\u0064\u0075';void 0" class="btn btn--primary">
+          <i class="fas fa-envelope"></i>
+          Send Email
+        </a>
+        <a href="https://www.linkedin.com/in/karantaneja1" target="_blank" rel="noopener noreferrer" class="btn btn--primary">
+          <i class="fab fa-linkedin"></i>
+          LinkedIn
+        </a>
+      </div>
+    </div>
+  </div>

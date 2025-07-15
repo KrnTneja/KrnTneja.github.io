@@ -1,0 +1,380 @@
+/* About Page Styles */
+
+.about-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* Hero Section */
+.about-hero {
+  padding: 3rem 0;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.hero-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #4a4a4a;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.hero-subtitle {
+  font-size: 1.3rem;
+  color: #52adc8;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.hero-description {
+  font-size: 1.1rem;
+  color: #7a8288;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Section Styles */
+.about-section {
+  margin-bottom: 3rem;
+  padding: 0;
+}
+
+.section-title {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #4a4a4a;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  
+  i {
+    color: #52adc8;
+    font-size: 1.5rem;
+  }
+}
+
+/* Bio Content */
+.bio-content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #4a4a4a;
+  
+  p {
+    margin-bottom: 1.2rem;
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  
+  a {
+    color: #52adc8;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    
+    &:hover {
+      color: #3a8ba8;
+      text-decoration: none;
+    }
+  }
+}
+
+/* Research Focus Grid */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.research-item {
+  text-align: center;
+  padding: 2rem 1rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+  }
+}
+
+.research-icon {
+  width: 60px;
+  height: 60px;
+  background: #52adc8;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
+  
+  i {
+    font-size: 1.5rem;
+    color: white;
+  }
+}
+
+.research-item h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #4a4a4a;
+  margin-bottom: 0.75rem;
+}
+
+.research-item p {
+  color: #7a8288;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Research Links Section */
+.research-links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e1e5e9;
+}
+
+.research-section-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1.5rem;
+  background: #52adc8;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: #3a8ba8;
+    color: white !important;
+    text-decoration: none !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(82, 173, 200, 0.4);
+  }
+  
+  &:visited {
+    color: white !important;
+    text-decoration: none !important;
+  }
+  
+  i {
+    font-size: 0.9rem;
+  }
+}
+
+/* Modern Updates List Styles - Hollow Bullets */
+.updates-list {
+  list-style: none;
+  margin: 2rem 0 2rem 0.5rem;
+  padding: 0;
+}
+.updates-list li {
+  margin-bottom: 1.5rem;
+  font-size: 1.08rem;
+  line-height: 1.7;
+  color: #444;
+  position: relative;
+  padding-left: 2rem;
+}
+.updates-list li:last-child {
+  margin-bottom: 0;
+}
+.updates-list li::before {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 0.7em;
+  width: 1em;
+  height: 1em;
+  border: 2px solid #52adc8;
+  border-radius: 50%;
+  background: transparent;
+  box-sizing: border-box;
+}
+.update-date {
+  color: #52adc8;
+  font-weight: 600;
+  font-size: 1.08rem;
+  letter-spacing: 0.01em;
+}
+@media (max-width: 600px) {
+  .updates-list {
+    margin-left: 0.2rem;
+  }
+  .updates-list li {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+  }
+  .updates-list li::before {
+    width: 0.8em;
+    height: 0.8em;
+    top: 0.7em;
+    border-width: 2px;
+  }
+  .update-date {
+    font-size: 1rem;
+  }
+}
+
+/* Contact Section */
+.contact-content {
+  text-align: center;
+  
+  p {
+    font-size: 1.1rem;
+    color: #7a8288;
+    margin-bottom: 1.5rem;
+  }
+}
+
+.contact-button {
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 2rem;
+    background: #52adc8;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    margin-right: 1rem;
+  }
+  .btn:last-child {
+    margin-right: 0;
+  }
+  .btn i {
+    font-size: 1rem;
+  }
+  .btn[href*="linkedin"] {
+    background: #0077b5;
+  }
+  .btn[href*="linkedin"]:hover {
+    background: #005983;
+    color: #fff;
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .about-hero {
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+  }
+  
+  .hero-title {
+    font-size: 2.5rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.1rem;
+  }
+  
+  .about-section {
+    margin-bottom: 2rem;
+  }
+  
+  .section-title {
+    font-size: 1.5rem;
+  }
+  
+  .research-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+  
+  .research-item {
+    padding: 1.5rem 0;
+  }
+  
+  .research-links {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .updates-list {
+    padding: 0;
+  }
+  
+  .updates-list li {
+    min-height: 80px;
+    margin: 1.2rem 0;
+  }
+  
+  .update-date {
+    width: 90%;
+    margin: 0 !important;
+    text-align: left !important;
+    padding: 1rem 0.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-hero {
+    padding: 1.5rem 0;
+  }
+  
+  .hero-title {
+    font-size: 2rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1rem;
+  }
+  
+  .section-title {
+    font-size: 1.3rem;
+  }
+  
+  .bio-content {
+    font-size: 1rem;
+  }
+  
+  .research-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .contact-button .btn {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+  }
+}
+
+/* Animation for sections appearing */
+.about-section {
+  animation: fadeInUp 0.6s ease forwards;
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+@for $i from 1 through 10 {
+  .about-section:nth-child(#{$i}) {
+    animation-delay: #{$i * 0.1}s;
+  }
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+} 

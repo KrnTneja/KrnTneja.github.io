@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: default
 permalink: /year-archive/
-title: "Blog posts"
+title: "Blog Posts"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
@@ -9,12 +9,19 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<div class="year-archive-container">
+  <!-- Header Section -->
+  <div class="blog-header">
+    <h1 class="blog-title">Blog</h1>
+    <p class="blog-subtitle">
+      Thoughts, insights, and updates from my journey in academia and life
+    </p>
+  </div>
+
+  <!-- Blog Posts List -->
+  {% for post in site.posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
+

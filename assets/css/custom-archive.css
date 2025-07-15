@@ -1,0 +1,84 @@
+/* ==========================================================================
+   Custom Archive Styling
+   ========================================================================== */
+
+/* Smooth scrolling for the entire page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Enhanced page title */
+.page__title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #4a4a4a;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+/* Simple category tags */
+.category-tag {
+  background: #7a8288;
+  color: white;
+  padding: 0.2rem 0.6rem;
+  border-radius: 10px;
+  font-size: 0.75rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  transition: background 0.3s ease;
+}
+
+/* Inline metadata for post page */
+.page__meta-inline {
+  margin: 0.5rem 0 1.5rem 0;
+  color: #7a8288;
+  font-size: 0.95em;
+}
+.page__meta-inline .read-time,
+.page__meta-inline .published-date {
+  display: inline-block;
+  margin-right: 1.5em;
+}
+.page__meta-inline i {
+  margin-right: 0.3em;
+  color: #52adc8;
+}
+
+/* Constrain width and center the archive list */
+.year-archive-container {
+  max-width: 750px;
+  margin: 0 auto;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+/* Year header */
+.archive__subtitle {
+  color: #4a4a4a;
+  padding: 1rem 0 0.5rem;
+  margin: 2rem 0 1rem;
+  font-weight: 600;
+  border-bottom: 2px solid #52adc8;
+  font-size: 1.5rem;
+}
+
+/* Animation for fade-in */
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  /* .year-archive-container {
+    padding: 0 0.5rem;
+  } */
+}
+
+/* Accessibility: focus state */
+/* .archive__item:focus-within {
+  outline: 2px solid #52adc8;
+  outline-offset: 2px;
+} */

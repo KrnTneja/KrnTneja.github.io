@@ -247,6 +247,21 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
+    
+    // Active state for current page
+    .masthead__menu-item--active {
+      a {
+        color: $primary-color;
+        font-weight: 600;
+        
+        &:before {
+          background: $primary-color;
+          -webkit-transform: scaleX(1);
+              -ms-transform: scaleX(1);
+                  transform: scaleX(1); /* show active indicator */
+        }
+      }
+    }
   }
 
   .hidden-links {

@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="projects-container">
+  <!-- Header Section -->
+  <div class="projects-header">
+    <h1 class="projects-title">Projects</h1>
+    <p class="projects-subtitle">
+      A collection of my recent research projects and technical work
+    </p>
+  </div>
+
+  <!-- Projects Grid -->
+  <div class="projects-grid">
+    {% assign sorted_projects = site.projects | sort: "date" | reverse %}
+    {% for post in sorted_projects %}
+      {% include project-card.html %}
+    {% endfor %}
+  </div>
+</div>
+
