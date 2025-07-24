@@ -37,7 +37,7 @@ redirect_from:
           <i class="fas fa-comments"></i>
         </div>
         <h3>Conversational AI</h3>
-        <p>Developing intelligent dialogue systems for educational contexts</p>
+        <p>Developing intelligent interactive grounded dialogue systems </p>
       </div>
       <div class="research-item">
         <div class="research-icon">
@@ -51,7 +51,7 @@ redirect_from:
           <i class="fas fa-brain"></i>
         </div>
         <h3>Human-Computer Interaction</h3>
-        <p>Designing intuitive interfaces for AI-human collaboration</p>
+        <p>Designing engaging interfaces for human-AI collaboration</p>
       </div>
     </div>
     
@@ -75,12 +75,12 @@ redirect_from:
     </h2>
     <ul class="updates-list">
       <li>
-        <span class="update-date">May 2025</span><br>
-        My collaborator <a href="https://www.linkedin.com/in/anjali-singh-a7786ba4/" target="_blank" rel="noopener noreferrer">Anjali Singh</a> presented our work '<a href="https://arxiv.org/pdf/2502.12447" target="_blank" rel="noopener noreferrer">Protecting Human Cognition in the Age of AI</a>' at the <a href="https://ai-tools-for-thought.github.io/workshop/" target="_blank" rel="noopener noreferrer">Tools for Thought Workshop at CHI 2025</a> in Yokohama, Japan.
+        <span class="update-date">July 2025</span><br>
+        I presented our work '<a href="https://arxiv.org/pdf/2504.13884" target="_blank" rel="noopener noreferrer">Towards a Multimodal Document-grounded Conversational AI System for Education</a>' at the <a href="https://aied2025.itd.cnr.it/" target="_blank" rel="noopener noreferrer">26th International Conference on Artificial Intelligence in Education (AIED 2025)</a> in Palermo, Italy.
       </li>
       <li>
         <span class="update-date">May 2025</span><br>
-        I will be presenting our work '<a href="https://arxiv.org/pdf/2504.13884" target="_blank" rel="noopener noreferrer">Towards a Multimodal Document-grounded Conversational AI System for Education</a>' at the <a href="https://aied2025.itd.cnr.it/" target="_blank" rel="noopener noreferrer">26th International Conference on Artificial Intelligence in Education (AIED 2025)</a> in Palermo, Italy.
+        My collaborator <a href="https://www.linkedin.com/in/anjali-singh-a7786ba4/" target="_blank" rel="noopener noreferrer">Anjali Singh</a> presented our work '<a href="https://arxiv.org/pdf/2502.12447" target="_blank" rel="noopener noreferrer">Protecting Human Cognition in the Age of AI</a>' at the <a href="https://ai-tools-for-thought.github.io/workshop/" target="_blank" rel="noopener noreferrer">Tools for Thought Workshop at CHI 2025</a> in Yokohama, Japan.
       </li>
       <li>
         <span class="update-date">April 2025</span><br>
