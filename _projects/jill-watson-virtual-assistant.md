@@ -6,7 +6,7 @@ technologies: "OpenAI LLMs, Skill-based Architecture, Learning Analytics, Vector
 impact: "Presented at AIED 2024 and Learning@Scale 2024, improved teaching presence in classrooms, supported thousands of students across multiple courses"
 header:
   teaser: /images/jill-watson-teaser.png
-date: 2025-02-28
+date: 2025-10-28
 ---
 
 ## Overview
@@ -34,6 +34,11 @@ Students in a large, online, graduate computer science course were randomly assi
 The Community of Inquiry survey was then administered at the end of the semester to measure the three presences. 
 We found that Jill Watson has a small, positive, statistically significant effect on the Design & Organization dimension of teaching presence as well as social presence.
 
+### Deployment of MuDoC as Jill Watson
+
+[MuDoC](/projects/multimodal-document-grounded-ai/) has been deployed as Jill Watson in  [Prof. David Joyner](https://www.davidjoyner.net/)'s Fall 2025 [Knowledge-based AI course](https://lucylabs.gatech.edu/kbai/) in Georgia Tech's OMSCS program. Read the [MuDoC Project Page](/projects/multimodal-document-grounded-ai/) or watch the intro video below!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Et_y8d8HAV8?si=rGGg-anFr96kKT_H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Related Publications 
 

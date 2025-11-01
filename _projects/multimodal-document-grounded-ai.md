@@ -6,11 +6,8 @@ technologies: "LLMs, Interleaved Text-and-Image Generation, Multimodal Embedding
 impact: "Presented at AAAI-MAKE 2025 and AIED 2025, increased student engagement with course materials, developed a trustworthy AI system for classrooms"
 header:
   teaser: /images/mudoc-teaser.png
-date: 2025-06-30
+date: 2025-11-01
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yCx_2PXXhO8?si=zKkwyYSw8LjB0o0R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 ## Overview
 
@@ -27,4 +24,10 @@ LLMs, Interleaved Text-and-Image Generation, Multimodal Embedding Models, Docume
 
 ### Team
 
-Karan Taneja (Project Lead, System Development, Study Deployment), Anjali Singh (Experiment Design), Ashok Goel (Advisor)
+Karan Taneja (Project Lead, System Development, Study Deployment, Classroom Deployment), Anjali Singh (Experiment Design), Issac Lo (LTI Tool Development), Shay Samat (LTI Tool Development), Ashok Goel (Advisor)
+
+### Deployment as Jill Watson
+
+MuDoC has been deployed as [Jill Watson](/projects/jill-watson-virtual-assistant/) in  [Prof. David Joyner](https://www.davidjoyner.net/)'s Fall 2025 [Knowledge-based AI course](https://lucylabs.gatech.edu/kbai/) in Georgia Tech's OMSCS program. Watch the intro video below!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Et_y8d8HAV8?si=rGGg-anFr96kKT_H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

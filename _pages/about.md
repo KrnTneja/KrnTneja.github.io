@@ -75,6 +75,18 @@ redirect_from:
     </h2>
     <ul class="updates-list">
       <li>
+        <span class="update-date">October 2025</span><br>
+        My recent project 
+        <a href="/projects/multimodal-document-grounded-ai/" target="_blank" rel="noopener noreferrer">MuDoC</a> 
+        has been deployed as the new 
+        <a href="/projects/jill-watson-virtual-assistant/" target="_blank" rel="noopener noreferrer">Jill Watson</a> 
+        in 
+        <a href="https://www.davidjoyner.net/" target="_blank" rel="noopener noreferrer">Prof. David Joyner</a>'s 
+        <a href="https://lucylabs.gatech.edu/kbai/" target="_blank" rel="noopener noreferrer">Knowledge-based AI course</a> 
+        in Georgia Tech's OMSCS program. Watch the 
+        <a href="https://www.youtube.com/watch?v=Et_y8d8HAV8"  target="_blank" rel="noopener noreferrer">intro video here</a>!
+      </li>
+      <li>
         <span class="update-date">July 2025</span><br>
         I presented our work '<a href="https://arxiv.org/pdf/2504.13884" target="_blank" rel="noopener noreferrer">Towards a Multimodal Document-grounded Conversational AI System for Education</a>' at the <a href="https://aied2025.itd.cnr.it/" target="_blank" rel="noopener noreferrer">26th International Conference on Artificial Intelligence in Education (AIED 2025)</a> in Palermo, Italy.
       </li>
@@ -93,14 +105,6 @@ redirect_from:
       <li>
         <span class="update-date">November 2024</span><br>
         I presented our work '<a href="https://arxiv.org/abs/2401.05467" target="_blank" rel="noopener noreferrer">Can Active Label Correction Improve LLM-based Modular AI Systems?</a>' at the <a href="https://2024.emnlp.org/" target="_blank" rel="noopener noreferrer">2024 Conference on Empirical Methods in Natural Language Processing</a> in Miami, Florida, US.
-      </li>
-      <li>
-        <span class="update-date">July 2024</span><br>
-        I presented our work '<a href="https://dl.acm.org/doi/abs/10.1145/3657604.3664679" target="_blank" rel="noopener noreferrer">Does Jill Watson Increase Teaching Presence?</a>' at the <a href="https://learningatscale.hosting.acm.org/las2024/" target="_blank" rel="noopener noreferrer">2024 ACM Learning at Scale Conference</a> in Atlanta, Georgia, US.
-      </li>
-      <li>
-        <span class="update-date">July 2024</span><br>
-        I presented our work '<a href="https://link.springer.com/chapter/10.1007/978-3-031-64302-6_23" target="_blank" rel="noopener noreferrer">Jill Watson: A Virtual Teaching Assistant powered by ChatGPT</a>' at the <a href="https://aied2024.cesar.school/" target="_blank" rel="noopener noreferrer">25th International Conference on Artificial Intelligence in Education (AIED 2024)</a> in Recife, Brazil.
       </li>
     </ul>
   </div>
