@@ -15,7 +15,7 @@ Multimodal AI is an important step towards building effective tools to leverage 
 
 ### Related Papers
 
-[AAAI-MAKE'25](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35619), [AIED'25](https://arxiv.org/abs/2504.13884)
+[AAAI-MAKE'25](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35619), [AIED'25](https://arxiv.org/abs/2504.13884), [Intelligent Textbooks Workshop'25](https://ceur-ws.org/Vol-4010/itb25_s2s1.pdf)
 
 
 ### Technologies and Tools

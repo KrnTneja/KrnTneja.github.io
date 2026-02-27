@@ -12,7 +12,7 @@ author_profile: true
   <div class="publications-header">
     <h1 class="publications-title">Publications</h1>
     <p class="publications-subtitle">
-      You can also find my articles on 
+      You can also find all my articles on 
       <a href="https://scholar.google.com/citations?user=YQRB5NoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="scholar-link">
         <i class="fa fa-graduation-cap"></i>Google Scholar
       </a>
@@ -22,6 +22,38 @@ author_profile: true
   <!-- Publications List -->
   <div class="publications-list">
     
+    <!-- Publication 15 -->
+    <div class="publication-item">
+      <div class="publication-number">15</div>
+      <div class="publication-content">
+        <h3 class="publication-title">HALT: Hallucination Assessment via Log-probs as Time series</h3>
+        <p class="publication-authors">Ahmad Shapiro, <strong>Karan Taneja</strong>, Ashok Goel</p>
+        <p class="publication-venue"><i>arXiv preprint arXiv:2602.02888</i></p>
+        <p class="publication-date">Preprint, Feb. 2026</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/pdf/2602.02888" target="_blank" rel="noopener noreferrer" class="publication-link">
+            <i class="fas fa-file-pdf"></i> Paper
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Publication 14 -->
+    <div class="publication-item">
+      <div class="publication-number">14</div>
+      <div class="publication-content">
+        <h3 class="publication-title">Lessons from a Multimodal and Trustworthy AI System for Intelligent Textbooks</h3>
+        <p class="publication-authors"><strong>Karan Taneja</strong>, Anjali Singh, Ashok K Goel</p>
+        <p class="publication-venue"><i>Workshop on Intelligent Textbooks at AIED 2025</i></p>
+        <p class="publication-date">22-26 Jul. 2025, Palermo, Italy</p>
+        <div class="publication-links">
+          <a href="https://ceur-ws.org/Vol-4010/itb25_s2s1.pdf" target="_blank" rel="noopener noreferrer" class="publication-link">
+            <i class="fas fa-file-pdf"></i> Paper
+          </a>
+        </div>
+      </div>
+    </div>
+
     <!-- Publication 13 -->
     <div class="publication-item">
       <div class="publication-number">13</div>

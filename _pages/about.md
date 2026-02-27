@@ -17,7 +17,7 @@ redirect_from:
     <div class="bio-content">
       <p>I'm a Computer Science Ph.D. Candidate at <a href="https://www.cc.gatech.edu/" target="_blank" rel="noopener noreferrer">Georgia Institute of Technology</a>, working under the guidance of <a href="https://dilab.gatech.edu/ashok-k-goel/" target="_blank" rel="noopener noreferrer">Prof. Ashok Goel</a>, director of the <a href="https://dilab.gatech.edu/" target="_blank" rel="noopener noreferrer">Design & Intelligence Lab</a> and <a href="https://aialoe.org/" target="_blank" rel="noopener noreferrer">AI-ALOE Institute</a>.</p>
       
-      <p>My research focuses on creating, deploying, and testing conversational AI tools for education. I'm expecting to graduate in May 2026 and I'm actively seeking job opportunities in AI research, product design, and human-computer interaction. I'm also interested in startups, so reach out to me if you want to work together to build something innovative!</p>
+      <p>My research focuses on creating, deploying, and comprehensively evaluating conversational AI tools, both from technical and human-centered perspectives.  I'm expecting to graduate in May 2026 and I'm actively seeking Applied AI Research and Engineering roles that focus on building AI tools and agentic AI systems. I'm also interested in startups, reach out to me if you want to work together and build something together!</p>
       
       <p>Before Georgia Tech, I graduated from <a href="http://www.iitb.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Technology Bombay</a> in July 2020 with Bachelors and Masters in <a href="https://www.ee.iitb.ac.in" target="_blank" rel="noopener noreferrer">Electrical Engineering</a>. I specialized in Signal Processing for my masters and also completed a minor in Computer Science and Engineering.</p>
 
@@ -37,7 +37,7 @@ redirect_from:
           <i class="fas fa-comments"></i>
         </div>
         <h3>Conversational AI</h3>
-        <p>Developing intelligent interactive grounded dialogue systems </p>
+        <p>Developing interactive grounded agentic AI systems </p>
       </div>
       <div class="research-item">
         <div class="research-icon">
