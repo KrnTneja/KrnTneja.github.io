@@ -75,6 +75,13 @@ redirect_from:
     </h2>
     <ul class="updates-list">
       <li>
+        <span class="update-date">March 2026</span><br>
+        I released 
+        <a href="https://pypi.org/project/distenum/" target="_blank" rel="noopener noreferrer">distenum</a>, 
+        a Python package that parses structured JSON outputs and converts enum-type fields into probability distributions using logprobs. 
+        Check it out on <a href="https://pypi.org/project/distenum/" target="_blank" rel="noopener noreferrer">PyPI</a> or <a href="https://github.com/KrnTneja/distenum" target="_blank" rel="noopener noreferrer">GitHub</a>.
+      </li>
+      <li>
         <span class="update-date">October 2025</span><br>
         My recent project 
         <a href="/projects/multimodal-document-grounded-ai/" target="_blank" rel="noopener noreferrer">MuDoC</a> 
