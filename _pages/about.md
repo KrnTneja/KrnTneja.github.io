@@ -76,7 +76,11 @@ redirect_from:
     <ul class="updates-list">
       <li>
         <span class="update-date">April 2026</span><br>
-        Our paper '<a href="https://arxiv.org/abs/2604.02221" target="_blank" rel="noopener noreferrer">Impact of Multimodal and Conversational AI on Learning Outcomes and Experience</a>' was accepted at the <a href="https://aied-conference.org/2026" target="_blank" rel="noopener noreferrer">27th International Conference on Artificial Intelligence in Education (AIED 2026)</a> in Seoul, South Korea this June.
+        Our paper '<a href="https://arxiv.org/abs/2604.02221" target="_blank" rel="noopener noreferrer">Impact of Multimodal and Conversational AI on Learning Outcomes and Experience</a>' was accepted at the <a href="https://aied-conference.org/2026" target="_blank" rel="noopener noreferrer">27th International Conference on Artificial Intelligence in Education (AIED 2026)</a> in Seoul, South Korea this June. Checkout the <a href="/projects/multimodal-document-grounded-ai/" target="_blank" rel="noopener noreferrer">MuDoC project page</a> for more details.
+      </li>
+      <li>
+        <span class="update-date">March 2026</span><br>
+        Our paper '<a href="https://arxiv.org/abs/2603.19634" target="_blank" rel="noopener noreferrer">MetaCues: Enabling Critical Engagement with Generative AI for Information Seeking and Sensemaking</a>' is now on arXiv! MetaCues is a GenAI search interface that pairs metacognitive cues with AI responses to support critical engagement. Checkout the <a href="/projects/metacues/" target="_blank" rel="noopener noreferrer">project page</a> for more info.
       </li>
       <li>
         <span class="update-date">March 2026</span><br>
