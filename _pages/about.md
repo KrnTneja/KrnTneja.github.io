@@ -75,6 +75,10 @@ redirect_from:
     </h2>
     <ul class="updates-list">
       <li>
+        <span class="update-date">April 2026</span><br>
+        Our paper '<a href="https://arxiv.org/abs/2604.02221" target="_blank" rel="noopener noreferrer">Impact of Multimodal and Conversational AI on Learning Outcomes and Experience</a>' was accepted at the <a href="https://aied-conference.org/2026" target="_blank" rel="noopener noreferrer">27th International Conference on Artificial Intelligence in Education (AIED 2026)</a> in Seoul, South Korea this June.
+      </li>
+      <li>
         <span class="update-date">March 2026</span><br>
         I released 
         <a href="https://pypi.org/project/distenum/" target="_blank" rel="noopener noreferrer">distenum</a>, 
@@ -108,10 +112,6 @@ redirect_from:
       <li>
         <span class="update-date">March 2025</span><br>
         I presented our work '<a href="https://arxiv.org/abs/2502.09843" target="_blank" rel="noopener noreferrer">MuDoC: An Interactive Multimodal Document-grounded Conversational AI System</a>' at the <a href="https://www.aaai-make.info/" target="_blank" rel="noopener noreferrer">Machine Learning and Knowledge Engineering for Trustworthy Multimodal and Generative AI (AAAI-MAKE 2025)</a> in San Francisco, California, US.
-      </li>
-      <li>
-        <span class="update-date">November 2024</span><br>
-        I presented our work '<a href="https://arxiv.org/abs/2401.05467" target="_blank" rel="noopener noreferrer">Can Active Label Correction Improve LLM-based Modular AI Systems?</a>' at the <a href="https://2024.emnlp.org/" target="_blank" rel="noopener noreferrer">2024 Conference on Empirical Methods in Natural Language Processing</a> in Miami, Florida, US.
       </li>
     </ul>
   </div>

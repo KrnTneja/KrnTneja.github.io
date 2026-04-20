@@ -6,7 +6,7 @@ technologies: "LLMs, Metacognitive Cues using OpenAI API, Search Interface, Reac
 impact: "Research project focused on improving user's critical thinking skills when interacting with generative AI search systems through strategic metacognitive interventions"
 header:
   teaser: /images/metacues-teaser.png
-date: 2025-05-30
+date: 2026-03-30
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hN21cEbNwUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -24,8 +24,9 @@ MetaCues leverages research in metacognition and critical thinking to design int
 
 ### Related Papers
 
+- [arXiv 2026](https://arxiv.org/pdf/2603.19634): Anjali Singh, **Karan Taneja**, Zhitong Guan, Soo Young Rieh, *MetaCues: Enabling Critical Engagement with Generative AI for Information Seeking and Sensemaking*, arXiv preprint, Mar. 2026.
 - [ASIS&T 2025](https://arxiv.org/pdf/2505.24014): Anjali Singh, Zhitong Guan, Soo Young Rieh, *Enhancing Critical Thinking in Generative AI Search with Metacognitive Prompts*, 88th Annual Meeting of the Association for Information Science & Technology, Nov. 14 – 18, 2025, Washington, DC, USA.
-- [CHI 2025](https://arxiv.org/pdf/2502.12447): Anjali Singh, Karan Taneja, Zhitong Guan, Avijit Ghosh, *Protecting human cognition in the age of AI*, Tools for Thought Workshop at the 2025 CHI Conference on Human Factors in Computing Systems.
+- [CHI 2025](https://arxiv.org/pdf/2502.12447): Anjali Singh, **Karan Taneja**, Zhitong Guan, Avijit Ghosh, *Protecting human cognition in the age of AI*, Tools for Thought Workshop at the 2025 CHI Conference on Human Factors in Computing Systems.
 
 ### Research Contributions
 
@@ -40,4 +41,4 @@ LLMs, Metacognitive Cues, OpenAI API, Search Interface Design, ReactJS, Flask
 
 ### Team
 
-Anjali Singh (Project Lead), Karan Taneja, Zhitong Guan, Soo Young Rieh
+Anjali Singh (Project Lead), **Karan Taneja**, Zhitong Guan, Soo Young Rieh

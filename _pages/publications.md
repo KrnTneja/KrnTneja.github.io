@@ -21,7 +21,39 @@ author_profile: true
 
   <!-- Publications List -->
   <div class="publications-list">
+
+    <!-- Publication 17 -->
+    <div class="publication-item">
+      <div class="publication-number">17</div>
+      <div class="publication-content">
+        <h3 class="publication-title">Impact of Multimodal and Conversational AI on Learning Outcomes and Experience</h3>
+        <p class="publication-authors"><strong>Karan Taneja</strong>, Anjali Singh, Ashok Goel</p>
+        <p class="publication-venue"><i>27th International Conference on Artificial Intelligence in Education, AIED 2026</i></p>
+        <p class="publication-date">27 Jun. - 3 Jul. 2026, Seoul, South Korea</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/pdf/2604.02221" target="_blank" rel="noopener noreferrer" class="publication-link">
+            <i class="fas fa-file-pdf"></i> Paper
+          </a>
+        </div>
+      </div>
+    </div>
     
+    <!-- Publication 16 -->
+    <div class="publication-item">
+      <div class="publication-number">16</div>
+      <div class="publication-content">
+        <h3 class="publication-title">MetaCues: Enabling Critical Engagement with Generative AI for Information Seeking and Sensemaking</h3>
+        <p class="publication-authors">Anjali Singh, <strong>Karan Taneja</strong>, Zhitong Guan, Soo Young Rieh</p>
+        <p class="publication-venue"><i>arXiv preprint arXiv:2603.19634</i></p>
+        <p class="publication-date">Preprint, Mar. 2026</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/pdf/2603.19634" target="_blank" rel="noopener noreferrer" class="publication-link">
+            <i class="fas fa-file-pdf"></i> Paper
+          </a>
+        </div>
+      </div>
+    </div>
+
     <!-- Publication 15 -->
     <div class="publication-item">
       <div class="publication-number">15</div>

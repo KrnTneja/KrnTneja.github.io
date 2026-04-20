@@ -6,7 +6,7 @@ technologies: "LLMs, Interleaved Text-and-Image Generation, Multimodal Embedding
 impact: "Presented at AAAI-MAKE 2025 and AIED 2025, increased student engagement with course materials, developed a trustworthy AI system for classrooms"
 header:
   teaser: /images/mudoc-teaser.png
-date: 2025-11-01
+date: 2026-04-20
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ Multimodal AI is an important step towards building effective tools to leverage 
 
 ### Related Papers
 
-[AAAI-MAKE'25](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35619), [AIED'25](https://arxiv.org/abs/2504.13884), [Intelligent Textbooks Workshop'25](https://ceur-ws.org/Vol-4010/itb25_s2s1.pdf)
+[AIED'26](https://arxiv.org/abs/2604.02221), [AAAI-MAKE'25](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35619), [AIED'25](https://arxiv.org/abs/2504.13884), [Intelligent Textbooks Workshop'25](https://ceur-ws.org/Vol-4010/itb25_s2s1.pdf)
 
 
 ### Technologies and Tools
